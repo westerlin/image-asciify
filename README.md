@@ -75,4 +75,4 @@ Then the image is partioned into a grid of cells and the program calculates the 
  * Scale down image size so it equals the number of cells in height and width of ASCII output
  * Calculate the average light intensity of each cell (quadrant) the unscaled image
 
-Each method outputs light intensity for each cell, which are then mapped to  the range of characters used to represent different tones of the image. The default grey tone palette is: ` .:!coCO8@ 
+Each method outputs light intensity for each cell, which are then mapped to  the range of characters used to represent different tones of the image. The default grey tone palette is: ` .:!coCO8@  `
