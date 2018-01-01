@@ -19,7 +19,7 @@ Build in Python 3.6 and makes use of :
 
 The program requires one parameter namely the name of the image you want to Asciify
 
-`> python3.6 imageasciify skull.jpg`
+`> python3.6 imageasciify.py skull.jpg`
 
 will provide you with the following
 
